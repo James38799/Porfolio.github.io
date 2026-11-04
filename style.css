@@ -33,7 +33,7 @@ body {
   align-items: center;
   gap: 20px;
   background: var(--muted);
-  color: var(--navy);
+  color: var(--navyblue);
   box-shadow: 0 2px 12px rgba(20, 33, 61, 0.07);
   position: sticky;
   top: 0;
